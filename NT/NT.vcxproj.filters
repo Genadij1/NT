@@ -18,8 +18,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>main</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Students.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentsProvider.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="File.h">
+      <Filter>main</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
